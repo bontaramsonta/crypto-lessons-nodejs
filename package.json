@@ -1,0 +1,13 @@
+{
+  "name": "crypto-lessons-nodejs",
+  "version": "1.0.0",
+  "description": "to experiment with nodejs crypto functions",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/main.ts",
+    "test": "node --test src/**/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  }
+}
